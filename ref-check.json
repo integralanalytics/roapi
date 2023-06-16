@@ -1,0 +1,1 @@
+{"code":400,"error":"plan_sql","message":"Failed to plan execution from SQL query: Schema error: No field named p.name. Valid fields are parent_cells_by_2022_us_state_and_county.name, parent_cells_by_2022_us_state_and_county.parent_cell, parent_cells_by_2022_us_state_and_county.scenario_id."}

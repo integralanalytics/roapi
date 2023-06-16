@@ -1,0 +1,2386 @@
+[
+    {
+        "name": "nrel_ev_chargers_exists",
+        "parent_cell": 583031433791012863
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581188652302860287
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581206244488904703
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581206244488904703
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581197448395882495
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581197448395882495
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581311797605171199
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581311797605171199
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581311797605171199
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581725213977214975
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581725213977214975
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581725213977214975
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581725213977214975
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "nrel_ev_chargers_exists",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581580078442348543
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581580078442348543
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581193050349371391
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581179856209838079
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581179856209838079
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581734010070237183
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581478923372593151
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581478923372593151
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581478923372593151
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581571282349326335
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581188652302860287
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581188652302860287
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581206244488904703
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581197448395882495
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581311797605171199
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581725213977214975
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581725213977214975
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581580078442348543
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581580078442348543
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581580078442348543
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581193050349371391
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "nrel_ev_chargers_exists",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581179856209838079
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581179856209838079
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581179856209838079
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581734010070237183
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581734010070237183
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "nrel_ev_chargers_exists",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581478923372593151
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581571282349326335
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581188652302860287
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581188652302860287
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581206244488904703
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581206244488904703
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581197448395882495
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581197448395882495
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581197448395882495
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581311797605171199
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581725213977214975
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581725213977214975
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581580078442348543
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "nrel_ev_chargers_exists",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581193050349371391
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581179856209838079
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "nrel_ev_chargers_exists",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581478923372593151
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581188652302860287
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581206244488904703
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581197448395882495
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581311797605171199
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581311797605171199
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581725213977214975
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581725213977214975
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581725213977214975
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581580078442348543
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "nrel_ev_chargers_exists",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581193050349371391
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581193050349371391
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581179856209838079
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581734010070237183
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581734010070237183
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581478923372593151
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581478923372593151
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "nrel_ev_chargers_exists",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581571282349326335
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581188652302860287
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581206244488904703
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581206244488904703
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581197448395882495
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581197448395882495
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581311797605171199
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581725213977214975
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581580078442348543
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581580078442348543
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581193050349371391
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581193050349371391
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581193050349371391
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581179856209838079
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581179856209838079
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581734010070237183
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581734010070237183
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581734010070237183
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581478923372593151
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581571282349326335
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581206244488904703
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581197448395882495
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581311797605171199
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581311797605171199
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581311797605171199
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581580078442348543
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581580078442348543
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581580078442348543
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581193050349371391
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581179856209838079
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581179856209838079
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581179856209838079
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581734010070237183
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581478923372593151
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581478923372593151
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581478923372593151
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "nrel_ev_chargers_exists",
+        "parent_cell": 581813174907437055
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581571282349326335
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581197448395882495
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581311797605171199
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581311797605171199
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581725213977214975
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581580078442348543
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "nrel_ev_chargers_exists",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581193050349371391
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581193050349371391
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581179856209838079
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581734010070237183
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581734010070237183
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 581478923372593151
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 581478923372593151
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581188652302860287
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581206244488904703
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581206244488904703
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581197448395882495
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581197448395882495
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581197448395882495
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581311797605171199
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581681233512103935
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581184254256349183
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581294205419126783
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581298603465637887
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581725213977214975
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581725213977214975
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581201846442393599
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581663641326059519
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 581720815930703871
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 582165018628325375
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581690029605126143
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581580078442348543
+    },
+    {
+        "name": "small_business_sales",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "schools_exists",
+        "parent_cell": 582204601046925311
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581685631558615039
+    },
+    {
+        "name": "parks_exists",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "shopping_exists",
+        "parent_cell": 582169416674836479
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581672437419081727
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581650447186526207
+    },
+    {
+        "name": "schools_percent_area",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "small_business_employment",
+        "parent_cell": 581637253046992895
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 581654845233037311
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581193050349371391
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581193050349371391
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581193050349371391
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 582244183465525247
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 582248581512036351
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581646049140015103
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 582173814721347583
+    },
+    {
+        "name": "poi_exists",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "nrel_ev_chargers_exists",
+        "parent_cell": 582239785419014143
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 581179856209838079
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 582604823279435775
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581734010070237183
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581734010070237183
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581734010070237183
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581734010070237183
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581641651093503999
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581698825698148351
+    },
+    {
+        "name": "large_business_employment",
+        "parent_cell": 582178212767858687
+    },
+    {
+        "name": "schools_area_in_meters",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "parking_area_in_meters",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "parks_percent_area",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "store_totals",
+        "parent_cell": 581707621791170559
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581659243279548415
+    },
+    {
+        "name": "large_business_sales",
+        "parent_cell": 581478923372593151
+    },
+    {
+        "name": "parking_percent_area",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "parking_exists",
+        "parent_cell": 581716417884192767
+    },
+    {
+        "name": "parks_area_in_meters",
+        "parent_cell": 581716417884192767
+    }
+]
