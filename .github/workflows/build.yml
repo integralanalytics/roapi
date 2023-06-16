@@ -2,9 +2,9 @@ name: build
 
 on:
   push:
-    branches: [ main ]
+    branches: [ "*" ]
   pull_request:
-    branches: [ main ]
+    branches: [ "*" ]
 
 env:
   # NOTE: the version is also defined in roapi_http_release.yml, columnq_cli_release.yml and Dockerfile
